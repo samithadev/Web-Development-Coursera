@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    font-family: sans-serif;
   }
   
   h1{
@@ -8,7 +9,7 @@
   
   p {
     background-color: #bfbfbf;
-    border: 2px solid black;
+    border: 3px solid black;
     height: 150px;
     margin-right: 10px;
     padding: 40px 10px 5px 10px;
@@ -16,7 +17,7 @@
   }
   
   
-  #container {
+  .container {
     position: relative;
     
   }
@@ -31,7 +32,6 @@
     width: 120px;
     padding: 10px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
   
   }
   #p2 {
@@ -45,7 +45,6 @@
     width: 120px;
     padding: 10px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
   
   }
   #p3 {
@@ -58,7 +57,6 @@
     width: 120px;
     padding: 10px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
   
   }
   
